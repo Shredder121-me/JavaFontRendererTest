@@ -32,7 +32,7 @@ public class RenderWindow {
     }
 
     private void createAndShowGui(){
-        JFrame frame = new JFrame("Jave Font Rendering Test");
+        JFrame frame = new JFrame("Java Font Rendering Test");
         frame.setPreferredSize(new Dimension(800, 600));
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
