@@ -1,7 +1,7 @@
 # Java Font Renderer test application
 
 This application is used to test the behaviour of the Java font renderer.
-Fore reference see issues #152 and #161 in https://github.com/chrissimpkins/Hack
+For reference see issues #152 and #161 in https://github.com/chrissimpkins/Hack
 
 # Usage
 ```
