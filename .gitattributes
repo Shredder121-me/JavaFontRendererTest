@@ -1,0 +1,4 @@
+* text eol=lf
+
+# Windows batch script
+*.cmd text eol=crlf

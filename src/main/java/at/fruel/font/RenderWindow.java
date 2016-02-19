@@ -1,6 +1,5 @@
 package at.fruel.font;
 
-import sun.font.Font2D;
 import sun.font.Font2DHandle;
 import sun.font.PhysicalFont;
 
